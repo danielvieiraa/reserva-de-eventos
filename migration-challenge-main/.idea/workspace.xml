@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff76c0bc-0fa6-4224-abe8-13ee594fa793" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/migration-challenge-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temporario.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/bin/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/bin/Palestra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/bin/Workshop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Evento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Palestra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Palestra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Workshop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reserva/src/Workshop.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/migrate.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pd7DU1AG9azVgFdqMBdAXrxtDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;PHP Script.migrate.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="migrate.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/migrate.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.migrate.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PS-243.21565.202" />
+        <option value="bundled-php-predefined-a98d8de5180a-5fbe0c30323e-com.jetbrains.php.sharedIndexes-PS-243.21565.202" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff76c0bc-0fa6-4224-abe8-13ee594fa793" name="Changes" comment="" />
+      <created>1733083980180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733083980180</updated>
+      <workItem from="1733083981696" duration="9429000" />
+      <workItem from="1733097767787" duration="4336000" />
+      <workItem from="1733152244375" duration="4029000" />
+      <workItem from="1733189019954" duration="6144000" />
+      <workItem from="1733238764104" duration="4173000" />
+      <workItem from="1733263745052" duration="1167000" />
+      <workItem from="1733265893467" duration="3921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
